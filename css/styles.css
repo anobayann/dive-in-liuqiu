@@ -72,6 +72,15 @@ body {
 [tabindex="-1"]:focus:not(:focus-visible) {
   outline: 0 !important;
 }
+.fa-facebook{
+  color: #3b5998;
+}
+.fa-instagram{
+  color: #f09433;
+}
+.fa-whatsapp{
+  color: #4ac959;
+}
 
 hr {
   box-sizing: content-box;

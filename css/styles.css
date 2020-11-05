@@ -10025,9 +10025,7 @@ hr.divider {
   border-color: #f4623a;
 }
 
-hr.light {
-  
-}
+
 
 .btn {
   font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -10179,3 +10177,21 @@ header.masthead h1 {
 .text-white-75 {
   color: rgba(255, 255, 255, 0.75);
 }
+#myself {
+  border-radius: 50%;
+width: 200px;
+height: 200px;
+
+margin-bottom: 2rem;
+border: 3px groove #CFD8DC;
+
+}
+#services{
+  text-align: left;
+}
+@media (min-width: 576px) {
+#services{
+  display: flex;
+  justify-content: space-around;
+  
+}}

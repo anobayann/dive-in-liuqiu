@@ -4008,11 +4008,14 @@ input[type=button].btn-block {
   display: inline-block;
   padding-top: 0.3125rem;
   padding-bottom: 0.3125rem;
-  margin-right: 1rem;
+ 
   font-size: 1.25rem;
   line-height: inherit;
   white-space: nowrap;
 }
+@media (min-width: 576px){
+  .navbar-brand{  margin-right: 2rem;
+}}
 .navbar-brand:hover, .navbar-brand:focus {
   text-decoration: none;
 }
@@ -10203,3 +10206,12 @@ border: 3px groove #CFD8DC;
   width: 2rem;
   height: 1rem;
 }
+.flag{
+  width: 1.2rem;
+  margin: 0.1rem;
+}
+@media (min-width: 576px){
+ .flag{
+  margin: 0.5rem;
+  width: 1.5rem;
+}}

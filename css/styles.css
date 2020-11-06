@@ -10199,3 +10199,7 @@ border: 3px groove #CFD8DC;
   font-family: 'Lobster', cursive !important;
   font-size: xx-large;
 }
+.flag{
+  width: 2rem;
+  height: 1rem;
+}

@@ -10216,9 +10216,18 @@ border: 3px groove #CFD8DC;
   height: 0.9rem;
   width: 1.5rem;
 }}
+@keyframes wiggle {
+  0% { transform: rotate(0deg); }
+ 80% { transform: rotate(0deg); }
+ 85% { transform: rotate(5deg); }
+ 95% { transform: rotate(-5deg); }
+100% { transform: rotate(0deg); }
+}
+
 #click{
   font-family: Lobster, cursive;
   font-size: 1.5rem;
+  animation: wiggle 2s infinite;
 }
 @media (min-width: 992px){
   #click{

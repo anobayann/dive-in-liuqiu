@@ -10471,3 +10471,11 @@ left: 10px;
 position: absolute;
 width: 180px;
 }
+.dive{
+  background: linear-gradient(35deg,red 0,red 45%, white 45%, white 55%, red 55%, red 100% ) ;
+  border: 3px groove #CFD8DC;
+}
+.dive:hover{
+  scale: 1.1;
+  transition: 1s;
+}

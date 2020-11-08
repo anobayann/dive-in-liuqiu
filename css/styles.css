@@ -10110,7 +10110,7 @@ hr.divider {
 }
 
 header.masthead {
-  padding-top: 30rem;
+  padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
   background: url("../assets/img/turtles.jpg");
   background-position: center;

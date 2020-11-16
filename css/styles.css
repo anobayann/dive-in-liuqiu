@@ -10109,7 +10109,7 @@ hr.divider {
   }
 }
 
-header.masthead {
+.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
   background: url("../assets/img/turtles.jpg");
@@ -10119,25 +10119,25 @@ header.masthead {
   background-size: cover;
   
 }
-header.masthead h1 {
+.masthead h1 {
   font-size: 2.25rem;
 }
 @media (min-width: 992px) {
-  header.masthead {
+  .masthead {
     height: 100vh;
     min-height: 40rem;
     padding-top: 4.5rem;
     padding-bottom: 0;
   }
-  header.masthead p {
+ .masthead p {
     font-size: 1.15rem;
   }
-  header.masthead h1 {
+  .masthead h1 {
     font-size: 3rem;
   }
 }
 @media (min-width: 1200px) {
-  header.masthead h1 {
+  .masthead h1 {
     font-size: 3.5rem;
   }
 }
@@ -10236,7 +10236,8 @@ border: 3px groove #CFD8DC;
   }
 }
 #background-wrap {
-  bottom: 0;
+
+bottom: 0;
 left: 0;
 position: fixed;
 right: 0;

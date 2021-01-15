@@ -9,17 +9,22 @@
 
 <url>
   <loc>https://www.dive-in-taiwan.com/</loc>
-  <lastmod>2020-11-18T17:41:20+00:00</lastmod>
+  <lastmod>2021-01-12T05:46:24+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://www.dive-in-taiwan.com/french.html</loc>
-  <lastmod>2020-11-18T17:41:20+00:00</lastmod>
+  <lastmod>2021-01-12T05:46:21+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.dive-in-taiwan.com/spanish.html</loc>
-  <lastmod>2020-11-18T17:41:23+00:00</lastmod>
+  <lastmod>2021-01-12T05:46:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.dive-in-taiwan.com/GoingtoLiuqiu.html</loc>
+  <lastmod>2021-01-12T05:46:23+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
